@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-08_1102",
+    "name": "www.arkaydethesage.com",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -40,7 +40,14 @@
     ],
     "uniqCompNum": 15,
     "versionPublish": "4.8.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/arkayde-the-sage-128x128-1.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
